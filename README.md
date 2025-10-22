@@ -1,12 +1,9 @@
 # ☁️ Serverless REST API Architecture — Technical Cost & Performance Analysis (AWS eu-west-2)
 
-# ☁️ Serverless REST API Architecture  
-### Technical Cost & Performance Analysis — AWS eu-west-2 (London)
-
 ---
 
 <p align="center">
-  <img src="/diagrams/architecture.png" alt="Serverless Architecture Diagram" width="800"/>
+  <img src="/diagrams/architecture.drawio.png" alt="Serverless Architecture Diagram" width="800"/>
 </p>
 
 ---
