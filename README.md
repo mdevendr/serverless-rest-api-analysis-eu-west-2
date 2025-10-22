@@ -106,4 +106,5 @@ For **EC2 + ALB** workloads, each instance and load balancer emits dozens of met
 ---
 
 © 2025 Mahesh Devendran — Cloud Architect | AWS | Azure | GCP | Serverless | Security  
-🌐 [LinkedIn](https://www.linkedin.com/in/mahesh-devendran-83a3b214)  
+🌐 <a href="https://www.linkedin.com/in/mahesh-devendran-83a3b214" target="_blank">LinkedIn</a>
+
