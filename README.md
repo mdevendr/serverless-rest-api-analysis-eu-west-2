@@ -24,6 +24,23 @@ The accompanying analysis provides measurable insights on:
 
 ---
 
+---
+
+## 🔗 Reference & Community Discussion  
+
+📢 This architecture and analysis were originally shared on LinkedIn:  
+👉 <a href="https://www.linkedin.com/posts/mahesh-devendran-83a3b214_aws-serverless-cloudarchitecture-activity-7386113818583568384-wxYc" target="_blank">View the LinkedIn Post</a>  
+
+The post includes community discussions on:
+- Security-first API design  
+- Lambda vs EC2 architectural trade-offs  
+- Compliance and cost analysis  
+- Peer examples of hybrid routing patterns (CloudFront + ALB + Lambda)  
+
+Feel free to join the conversation and share your insights!
+
+---
+
 ## 🏗 Architecture Overview  
 The solution follows a **fully serverless, event-driven design** using managed AWS services.
 
