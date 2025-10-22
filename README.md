@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="./diagrams/architecture.png" alt="Serverless Architecture Diagram" width="800"/>
+  <img src="./diagrams/architecture.drawio.png" alt="Serverless Architecture Diagram" width="800"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ The solution follows a **fully serverless, event-driven design** using managed A
 
 ## 💰 Verified Cost Model — Serverless vs EC2 (eu-west-2, Oct 2025)  
 This analysis validates the quantitative comparison using data from the **AWS Pricing Calculator**.  
-🔗 [Download Whitepaper PDF](./whitepaper/Serverless_Technical_Analysis_Combined_Fixed.pdf)
+🔗 [Download Whitepaper PDF](./whitepaper/Serverless_Technical_Analysis_Verified_Oct2025.pdf)
 
 ### Breakdown (Monthly USD)  
 | Component                       | EC2 Deployment | Serverless Deployment  | Notes                                               |
