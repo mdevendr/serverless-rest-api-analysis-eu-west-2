@@ -1,5 +1,58 @@
 # ☁️ Serverless REST API Architecture — Technical Cost & Performance Analysis (AWS eu-west-2)
 
+# ☁️ Serverless REST API Architecture  
+### Technical Cost & Performance Analysis — AWS eu-west-2 (London)
+
+---
+
+<p align="center">
+  <img src="/diagrams/architecture.png" alt="Serverless Architecture Diagram" width="800"/>
+</p>
+
+---
+
+### 📄 **Overview**
+This repository presents a detailed **technical whitepaper and reference implementation** of a **Serverless REST API architecture** on AWS.  
+It benchmarks **cost efficiency**, **performance latency**, and **compliance alignment** for enterprise-grade workloads in the **eu-west-2 region**.
+
+The accompanying paper provides measurable insights on:
+- ⚙️ Architecture design & implementation patterns  
+- 💰 Cost-performance optimization (40–60% lower cost vs EC2)  
+- 🚀 Scalability, fault tolerance, and operational efficiency  
+- 🔐 Compliance mapping to DORA, PCI DSS, and ISO 27001  
+- 🧭 AWS Well-Architected Framework alignment  
+
+---
+
+### 🔗 **Quick Links**
+| Section | Description |
+|----------|--------------|
+| 📘 [Whitepaper PDF](./whitepaper/Serverless_Technical_Analysis_eu-west-2.pdf) | Full technical analysis, metrics, and design guidance |
+| 🧠 [Architecture Overview](#🏗️-architecture-overview) | Core AWS components and design principles |
+| 📊 [Cost & Performance Metrics](#📊-key-metrics) | Quantitative comparison: Lambda vs EC2 |
+| 🔐 [Compliance Mapping](#🔐-compliance--governance) | Alignment with DORA, PCI DSS, ISO 27001 |
+| 👤 [Author & Contact](#👤-author) | Author credentials and contact links |
+
+---
+
+### 🧩 **Technologies Used**
+- **AWS Lambda** — Stateless compute engine  
+- **Amazon API Gateway** — Managed REST API layer  
+- **Amazon DynamoDB** — NoSQL database with on-demand scaling  
+- **AWS Secrets Manager** — Encrypted secret storage  
+- **AWS CloudWatch** — Metrics, logging, and alarms  
+- **AWS IAM + ACM** — Access control and secure endpoints  
+
+---
+
+<p align="center">
+  <b>“Design for elasticity, build for resilience, measure for compliance.”</b>  
+  <br>— Serverless Technical Analysis, AWS eu-west-2
+</p>
+
+---
+
+
 ## 📘 Objective
 This whitepaper provides a **technical and cost–performance analysis** of an **AWS Serverless REST API Architecture** designed for scalable, secure, and cost-efficient workloads in the **eu-west-2 (London)** region.
 
