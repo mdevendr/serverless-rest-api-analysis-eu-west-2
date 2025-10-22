@@ -70,8 +70,7 @@ The design aligns with major compliance and operational-resilience standards:
 - 📍 London, United Kingdom (eu-west-2)  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/mahesh-devendran-83a3b214)  
 - 📧 Contact: mahesh.devendran@gmail.com 
-- 🧾 Whitepaper: **Serverless_Technical_Analysis_eu-west-2.pdf**
-
+- 🧾 Whitepaper: [**Serverless_Technical_Analysis_eu-west-2.pdf**](whitepaper/Serverless_Technical_Analysis.pdf)
 ---
 
 ## 📂 Repository Structure
