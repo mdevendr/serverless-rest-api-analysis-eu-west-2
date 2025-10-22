@@ -25,10 +25,10 @@ The accompanying paper provides measurable insights on:
 | Section | Description |
 |----------|--------------|
 | 📘 [Whitepaper PDF](/whitepaper/Serverless_Technical_Analysis.pdf) | Full technical analysis, metrics, and design guidance |
-| 🧠 [Architecture Overview](#🏗️-architecture-overview) | Core AWS components and design principles |
-| 📊 [Cost & Performance Metrics](#📊-key-metrics) | Quantitative comparison: Lambda vs EC2 |
-| 🔐 [Compliance Mapping](#🔐-compliance--governance) | Alignment with DORA, PCI DSS, ISO 27001 |
-| 👤 [Author & Contact](#👤-author) | Author credentials and contact links |
+| 🧠 [Architecture Overview](#architecture-overview) | Core AWS components and design principles |
+| 📊 [Cost & Performance Metrics](#key-metrics) | Quantitative comparison: Lambda vs EC2 |
+| 🔐 [Compliance Mapping](#compliance--governance) | Alignment with DORA, PCI DSS, ISO 27001 |
+| 👤 [Author & Contact](#author) | Author credentials and contact links |
 
 ## 🌐 Community & Discussion
 This project was featured on LinkedIn:  
@@ -128,8 +128,8 @@ The design aligns with major compliance and operational-resilience standards:
 ---
 
 ## 📂 Repository Structure
-/whitepaper
-└── Serverless_Technical_Analysis_eu-west-2.pdf
-/diagrams
-└── architecture.png
-README.md
+- **/whitepaper/**
+  - Serverless_Technical_Analysis_eu-west-2.pdf
+- **/diagrams/**
+  - architecture.png
+- README.md
