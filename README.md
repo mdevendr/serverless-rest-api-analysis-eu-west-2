@@ -24,8 +24,6 @@ The accompanying analysis provides measurable insights on:
 
 ---
 
----
-
 ## 🔗 Reference & Community Discussion  
 
 📢 This architecture and analysis were originally shared on LinkedIn:  
