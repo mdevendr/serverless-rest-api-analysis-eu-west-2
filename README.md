@@ -79,8 +79,6 @@ The solution follows a **fully serverless, event-driven design** using managed A
 - **Amazon S3** – Static asset hosting and backup storage  
 - **AWS Certificate Manager (ACM)** – SSL/TLS certificate provisioning for API Gateway endpoints  
 - **AWS IAM** – Fine-grained access control and least-privilege permissions  
-
-### 🔸 Optional Enhancements
 - **AWS X-Ray** for distributed tracing and latency analysis  
 - **VPC Endpoints** for private service connectivity and data-in-transit protection  
 
@@ -132,4 +130,5 @@ The design aligns with major compliance and operational-resilience standards:
   - Serverless_Technical_Analysis_eu-west-2.pdf
 - **/diagrams/**
   - architecture.png
+
 - README.md
