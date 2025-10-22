@@ -24,11 +24,15 @@ The accompanying paper provides measurable insights on:
 ### 🔗 **Quick Links**
 | Section | Description |
 |----------|--------------|
-| 📘 [Whitepaper PDF](./whitepaper/Serverless_Technical_Analysis_eu-west-2.pdf) | Full technical analysis, metrics, and design guidance |
+| 📘 [Whitepaper PDF](/whitepaper/Serverless_Technical_Analysis.pdf) | Full technical analysis, metrics, and design guidance |
 | 🧠 [Architecture Overview](#🏗️-architecture-overview) | Core AWS components and design principles |
 | 📊 [Cost & Performance Metrics](#📊-key-metrics) | Quantitative comparison: Lambda vs EC2 |
 | 🔐 [Compliance Mapping](#🔐-compliance--governance) | Alignment with DORA, PCI DSS, ISO 27001 |
 | 👤 [Author & Contact](#👤-author) | Author credentials and contact links |
+
+## 🌐 Community & Discussion
+This project was featured on LinkedIn:  
+🔗 [View the original post and discussion here](https://www.linkedin.com/posts/mahesh-devendran-83a3b214_aws-serverless-cloudarchitecture-activity-7386113818583568384-wxYc)
 
 ---
 
